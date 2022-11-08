@@ -8,7 +8,7 @@ export const state = () => ({
       id: "260d1271-f1f2-4bc9-a5eb-05a89c8cccdb",
       title: "Google Health Platform",
       category: "Web Application",
-      img: "images/web-project-2.jpg",
+      img: "../images/92362e_eb0c0d8f0df32ce2e24ed9e68da26b39.jpg",
       publishDate: "Nov 04, 2021",
       tag: "UI / Frontend",
       clientTitle: "About Client",
@@ -22,17 +22,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Uber Project Management UI",
-          img: "../images/ui-project-1.jpg",
+          img: "../images/92362e_cbccd557b80628c714b0dd7c1d2cc9c5.jpg",
         },
         {
           id: uuidv4(),
           title: "Uber Project Management UI",
-          img: "../images/web-project-1.jpg",
+          img: "../images/92362e_cbccd557b80628c714b0dd7c1d2cc9c5.jpg",
         },
         {
           id: uuidv4(),
           title: "Uber Project Management UI",
-          img: "../images/web-project-2.jpg",
+          img: "../images/92362e_cbccd557b80628c714b0dd7c1d2cc9c5.jpg",
         },
       ],
       companyInfos: [
@@ -124,7 +124,7 @@ export const state = () => ({
       id: "260d1271-f1f2-4bc9-a5eb-05a89c8cccdc",
       title: "Phoenix Digital Agency",
       category: "Mobile Application",
-      img: "images/mobile-project-2.jpg",
+      img: "../images/92362e_95779ae4d08e9654de3f5bbef7551548.jpg",
       publishDate: "Nov 04, 2021",
       tag: "UI / Frontend",
       clientTitle: "About Client",
@@ -138,17 +138,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Phoenix Digital Agency",
-          img: "../images/mobile-project-1.jpg",
+          img: "../images/92362e_95779ae4d08e9654de3f5bbef7551548.jpg",
         },
         {
           id: uuidv4(),
           title: "Phoenix Digital Agency",
-          img: "../images/web-project-2.jpg",
+          img: "../images/92362e_94aad63670a8daad273fa2b576717ea1.jpg",
         },
         {
           id: uuidv4(),
           title: "Phoenix Digital Agency",
-          img: "../images/mobile-project-2.jpg",
+          img: "../images/web-project-1.jpg",
         },
       ],
       companyInfos: [
@@ -240,7 +240,7 @@ export const state = () => ({
       id: "260d1271-f1f2-4bc9-a5eb-05a89c8cccdy",
       title: "Project Management UI",
       category: "UI/UX Design",
-      img: "images/ui-project-1.jpg",
+      img: "../images/92362e_616b2ec56cd14f9f91cd0c1a174cf501.jpg",
       publishDate: "Nov 04, 2021",
       tag: "UI / Frontend",
       clientTitle: "About Client",
@@ -254,17 +254,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Project Management UI",
-          img: "../images/mobile-project-1.jpg",
+          img: "../images/web-project-1.jpg",
         },
         {
           id: uuidv4(),
           title: "Project Management UI",
-          img: "../images/web-project-2.jpg",
+          img: "../images/web-project-1.jpg",
         },
         {
           id: uuidv4(),
           title: "Project Management UI",
-          img: "../images/mobile-project-2.jpg",
+          img: "../images/web-project-1.jpg",
         },
       ],
       companyInfos: [
@@ -356,7 +356,7 @@ export const state = () => ({
       id: "260d1271-f1f2-4bc9-a5eb-05a89c8ccc99",
       title: "Cloud Storage Platform",
       category: "UI/UX Design",
-      img: "images/ui-project-2.jpg",
+      img: "../images/web-project-1.jpg",
       publishDate: "Nov 04, 2021",
       tag: "Web / Frontend",
       clientTitle: "About Client",
@@ -375,12 +375,12 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Cloud Storage Platform",
-          img: "../images/web-project-2.jpg",
+          img: "../images/web-project-1.jpg",
         },
         {
           id: uuidv4(),
           title: "Cloud Storage Platform",
-          img: "../images/mobile-project-2.jpg",
+          img: "../images/92362e_eb0c0d8f0df32ce2e24ed9e68da26b39.jpg",
         },
       ],
       companyInfos: [
@@ -472,7 +472,7 @@ export const state = () => ({
       id: "260d1271-f1f2-4bc9-a5eb-05a89c8cccdm",
       title: "Uber Social App",
       category: "Mobile Application",
-      img: "images/mobile-project-1.jpg",
+      img: "../images/92362e_629f5ecec567480ebe1a2eb50c9dfd9a.jpg",
       publishDate: "Nov 04, 2021",
       tag: "UI / Mobile",
       clientTitle: "About Client",
@@ -486,17 +486,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Uber Social App",
-          img: "../images/web-project-1.jpg",
+          img: "../images/92362e_eb0c0d8f0df32ce2e24ed9e68da26b39.jpg",
         },
         {
           id: uuidv4(),
           title: "Uber Social App",
-          img: "../images/web-project-2.jpg",
+          img: "../images/92362e_eb0c0d8f0df32ce2e24ed9e68da26b39.jpg",
         },
         {
           id: uuidv4(),
           title: "Uber Social App",
-          img: "../images/mobile-project-2.jpg",
+          img: "../images/92362e_e5aad61348614df447d3243a6d4dc571.jpg",
         },
       ],
       companyInfos: [
@@ -588,7 +588,7 @@ export const state = () => ({
       id: "260d1271-f1f2-4bc9-a5eb-05a89c8cccbb",
       title: "Apple Design System",
       category: "Web Application",
-      img: "images/web-project-1.jpg",
+      img: "../images/92362e_e5aad61348614df447d3243a6d4dc571.jpg",
       publishDate: "Nov 04, 2021",
       tag: "UI / Mobile",
       clientTitle: "About Client",
@@ -602,17 +602,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Apple Design System",
+          img: "../images/92362e_95779ae4d08e9654de3f5bbef7551548.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Apple Design System",
           img: "../images/web-project-1.jpg",
         },
         {
           id: uuidv4(),
           title: "Apple Design System",
-          img: "../images/web-project-2.jpg",
-        },
-        {
-          id: uuidv4(),
-          title: "Apple Design System",
-          img: "../images/mobile-project-2.jpg",
+          img: "../images/web-project-1.jpg",
         },
       ],
       companyInfos: [
@@ -747,11 +747,11 @@ export const state = () => ({
   aboutMe: [
     {
       id: uuidv4(),
-      bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.",
+      bio: "Sama Soltani was born in 1986, in Kermanshah, Iran and&nbsp;began painting at the tender age of five.",
     },
     {
       id: uuidv4(),
-      bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?",
+      bio: "Master of fine art, Anglia Ruskin University,2013",
     },
   ],
   copyrightDate: new Date().getFullYear(),

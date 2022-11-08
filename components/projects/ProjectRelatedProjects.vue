@@ -7,23 +7,23 @@ export default {
         relatedProjects: [
           {
             id: 1,
-            title: "Mobile UI",
-            img: require("@/static/images/mobile-project-1.jpg"),
+            title: "Mobileadfh UI",
+            img: require("@/static/images/92362e_94aad63670a8daad273fa2b576717ea1.jpg"),
           },
           {
             id: 2,
             title: "Web Application",
-            img: require("@/static/images/web-project-1.jpg"),
+            img: require("@/static/images/92362e_94aad63670a8daad273fa2b576717ea1.jpg"),
           },
           {
             id: 3,
             title: "UI Design",
-            img: require("@/static/images/ui-project-2.jpg"),
+            img: require("@/static/images/92362e_cbccd557b80628c714b0dd7c1d2cc9c5.jpg"),
           },
           {
             id: 4,
             title: "Kabul Mobile App UI",
-            img: require("@/static/images/mobile-project-2.jpg"),
+            img: require("@/static/images/92362e_e5aad61348614df447d3243a6d4dc571.jpg"),
           },
         ],
       },

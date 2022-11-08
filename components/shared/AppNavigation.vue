@@ -12,14 +12,14 @@ export default {
       font-general-regular
       m-0
       sm:ml-4
-      mt-5
+    
       sm:mt-3 sm:flex
-      p-5
+    
       sm:p-0
       justify-center
       items-center
-      shadow-lg
-      sm:shadow-none
+     
+     
     "
   >
     <NuxtLink
@@ -31,7 +31,7 @@ export default {
         hover:text-secondary-dark
         dark:hover:text-secondary-light
         sm:mx-4
-        mb-2
+       
         sm:py-2
       "
       aria-label="Projects"

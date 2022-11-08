@@ -43,7 +43,7 @@ export default {
           uppercase
         "
       >
-        Hi, Iam Stoman
+        Hi, Iam Sama
       </h1>
       <p
         class="
@@ -58,7 +58,7 @@ export default {
           text-gray-400
         "
       >
-        A Full-Stack Developer & Design Enthusiast
+        An artist & Designer 
       </p>
       <div class="flex justify-center sm:block">
         <a
@@ -104,10 +104,10 @@ export default {
     <div class="w-full md:w-2/3 text-right float-right">
       <img
         v-if="this.$colorMode.value == 'dark'"
-        src="~/static/developer-dark.svg"
+        src="~/static/images/art.jpg"
         alt="Developer Dark"
       />
-      <img v-else src="~/static/developer.svg" alt="Developer Light" />
+      <img v-else src="~/static/images/art.jpg" alt="Developer Light" />
     </div>
   </section>
 </template>
