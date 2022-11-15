@@ -6,9 +6,9 @@ export const state = () => ({
   projects: [
     {
       id: "260d1271-f1f2-4bc9-a5eb-05a89c8cccdb",
-      title: "Google Health Platform",
-      category: "Web Application",
-      img: "../images/92362e_eb0c0d8f0df32ce2e24ed9e68da26b39.jpg",
+      title: "Shanameh-1",
+      category: "Shanameh",
+      img: "../images/Shanameh/2.jpg",
       publishDate: "Nov 04, 2021",
       tag: "UI / Frontend",
       clientTitle: "About Client",
@@ -22,17 +22,152 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Uber Project Management UI",
-          img: "../images/92362e_cbccd557b80628c714b0dd7c1d2cc9c5.jpg",
+          img: "../images/Shanameh/1.jpg",
         },
         {
           id: uuidv4(),
           title: "Uber Project Management UI",
-          img: "../images/92362e_cbccd557b80628c714b0dd7c1d2cc9c5.jpg",
+          img: "../images/Shanameh/2.jpg",
         },
         {
           id: uuidv4(),
           title: "Uber Project Management UI",
-          img: "../images/92362e_cbccd557b80628c714b0dd7c1d2cc9c5.jpg",
+          img: "../images/Shanameh/3.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/4.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/5.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/6.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/7.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/8.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/9.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/10.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/11.png",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/12.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/13.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/14.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/15.png",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/16.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/17.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/18.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/19.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/20.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/21.png",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/22.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/23.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/24.png",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/25.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/26.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/27.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/28.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/29.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Uber Project Management UI",
+          img: "../images/Shanameh/30.jpg",
         },
       ],
       companyInfos: [
@@ -122,9 +257,9 @@ export const state = () => ({
     },
     {
       id: "260d1271-f1f2-4bc9-a5eb-05a89c8cccdc",
-      title: "Phoenix Digital Agency",
-      category: "Mobile Application",
-      img: "../images/92362e_95779ae4d08e9654de3f5bbef7551548.jpg",
+      title: "Dreams-1",
+      category: "Dreams",
+      img: "../images/Dreams/d2.jpg",
       publishDate: "Nov 04, 2021",
       tag: "UI / Frontend",
       clientTitle: "About Client",
@@ -138,17 +273,52 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Phoenix Digital Agency",
-          img: "../images/92362e_95779ae4d08e9654de3f5bbef7551548.jpg",
+          img: "../images/Dreams/d1.jpg",
         },
         {
           id: uuidv4(),
           title: "Phoenix Digital Agency",
-          img: "../images/92362e_94aad63670a8daad273fa2b576717ea1.jpg",
+          img: "../images/Dreams/d2.jpg",
         },
         {
           id: uuidv4(),
           title: "Phoenix Digital Agency",
-          img: "../images/web-project-1.jpg",
+          img: "../images/Dreams/d3.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Phoenix Digital Agency",
+          img: "../images/Dreams/d4.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Phoenix Digital Agency",
+          img: "../images/Dreams/d5.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Phoenix Digital Agency",
+          img: "../images/Dreams/d6.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Phoenix Digital Agency",
+          img: "../images/Dreams/d7.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Phoenix Digital Agency",
+          img: "../images/Dreams/d8.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Phoenix Digital Agency",
+          img: "../images/Dreams/d9.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Phoenix Digital Agency",
+          img: "../images/Dreams/d10.jpg",
         },
       ],
       companyInfos: [
@@ -238,9 +408,9 @@ export const state = () => ({
     },
     {
       id: "260d1271-f1f2-4bc9-a5eb-05a89c8cccdy",
-      title: "Project Management UI",
-      category: "UI/UX Design",
-      img: "../images/92362e_616b2ec56cd14f9f91cd0c1a174cf501.jpg",
+      title: "Arrabesque-1",
+      category: "Arrabesque",
+      img: "../images/Arrabesque/a3.jpg",
       publishDate: "Nov 04, 2021",
       tag: "UI / Frontend",
       clientTitle: "About Client",
@@ -254,17 +424,27 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Project Management UI",
-          img: "../images/web-project-1.jpg",
+          img: "../images/Arrabesque/a1.jpg",
         },
         {
           id: uuidv4(),
           title: "Project Management UI",
-          img: "../images/web-project-1.jpg",
+          img: "../images/Arrabesque/a2.jpg",
         },
         {
           id: uuidv4(),
           title: "Project Management UI",
-          img: "../images/web-project-1.jpg",
+          img: "../images/Arrabesque/a3.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Project Management UI",
+          img: "../images/Arrabesque/a4.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Project Management UI",
+          img: "../images/Arrabesque/a5.jpg",
         },
       ],
       companyInfos: [
@@ -354,8 +534,8 @@ export const state = () => ({
     },
     {
       id: "260d1271-f1f2-4bc9-a5eb-05a89c8ccc99",
-      title: "Cloud Storage Platform",
-      category: "UI/UX Design",
+      title: "Collection-1",
+      category: "Collection-1",
       img: "../images/web-project-1.jpg",
       publishDate: "Nov 04, 2021",
       tag: "Web / Frontend",
@@ -470,8 +650,8 @@ export const state = () => ({
     },
     {
       id: "260d1271-f1f2-4bc9-a5eb-05a89c8cccdm",
-      title: "Uber Social App",
-      category: "Mobile Application",
+      title: "Collection-1",
+      category: "Collection-2",
       img: "../images/92362e_629f5ecec567480ebe1a2eb50c9dfd9a.jpg",
       publishDate: "Nov 04, 2021",
       tag: "UI / Mobile",
@@ -586,8 +766,8 @@ export const state = () => ({
     },
     {
       id: "260d1271-f1f2-4bc9-a5eb-05a89c8cccbb",
-      title: "Apple Design System",
-      category: "Web Application",
+      title: "Collection-1",
+      category: "Collection-3",
       img: "../images/92362e_e5aad61348614df447d3243a6d4dc571.jpg",
       publishDate: "Nov 04, 2021",
       tag: "UI / Mobile",

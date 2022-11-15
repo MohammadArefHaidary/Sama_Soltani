@@ -214,3 +214,8 @@ h5 {
   font-size: x-large;
   font-weight: bold;
 }
+
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 3rem;
+}
