@@ -10,164 +10,230 @@ export const state = () => ({
       category: "Shanameh",
       img: "../images/Shanameh/2.jpg",
       publishDate: "Nov 04, 2021",
-      tag: "UI / Frontend",
+      tag: "Fine / Art",
       clientTitle: "About Client",
       objectivesTitle: "Objective",
-      objectivesDetails:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.",
+      objectivesDetails: "// The Book of Kings",
       techTitle: "Tools & Technologies",
-      detailsTitle: "Challenge",
+      detailsTitle: "Shanameh",
       socialTitle: "Share This",
       projectImages: [
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
           img: "../images/Shanameh/1.jpg",
+          size: "41 cm x 22.5 cm",
+          imgName: "Keykavous' Kingdom",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "39 cm x 32 cm",
+          imgName: "Jamshid",
           img: "../images/Shanameh/2.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "Not Defined",
+          imgName: "Bahram",
           img: "../images/Shanameh/3.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "29.7 cm x 21 cm",
+          imgName: "Haft Khan I",
           img: "../images/Shanameh/4.jpg",
         },
         {
           id: uuidv4(),
           title: "Uber Project Management UI",
+          size: "21 cm x 29,7 cm",
+          imgName: "Simorgh",
           img: "../images/Shanameh/5.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "54 cm x 36 cm",
+          imgName: "Bijan and Manijeh I",
           img: "../images/Shanameh/6.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolour, gouache and mixed media",
+          size: "29,7 cm x 21 cm",
+          imgName: "Sohrab's Tragedy",
           img: "../images/Shanameh/7.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "47 cm x 69 cm",
+          imgName: "Tahmineh II",
           img: "../images/Shanameh/8.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "Not Defined",
+          imgName: "Kay Kavus",
           img: "../images/Shanameh/9.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "77 cm x 36 cm",
+          imgName: "Rostam and Tahmineh",
           img: "../images/Shanameh/10.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "21 cm x 29,7 cm",
+          imgName: "Default",
           img: "../images/Shanameh/11.png",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "49 cm x 34 cm",
+          imgName: "Zahak",
           img: "../images/Shanameh/12.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "21 cm x 29,7 cm",
+          imgName: "Default",
           img: "../images/Shanameh/13.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolour, gouache and mixed media",
+          size: "59 cm x 42 cm",
+          imgName: "Gordafarid",
           img: "../images/Shanameh/14.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "21 cm x 29,7 cm",
+          imgName: "Default",
           img: "../images/Shanameh/15.png",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolour, gouache and mixed media",
+          size: "29.7 cm x 21 cm",
+          imgName: "Sudabeh",
           img: "../images/Shanameh/16.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "21 cm x 29,7 cm",
+          imgName: "Rostam Killed Esfandiyar",
           img: "../images/Shanameh/17.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "67 cm x 48 cm",
+          imgName: "Keyumas",
           img: "../images/Shanameh/18.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "71 cm x 56 cm",
+          imgName: "Rakhsh",
           img: "../images/Shanameh/19.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "56 cm x 38 cm",
+          imgName: "Siavash's Test",
           img: "../images/Shanameh/20.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "21 cm x 29,7 cm",
+          imgName: "Default",
           img: "../images/Shanameh/21.png",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "52,7 cm x 35 cm",
+          imgName: "Sudabeh's Demise",
           img: "../images/Shanameh/22.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolour, gouache and mixed media",
+          size: "29,7 cm x 21 cm",
+          imgName: "Siavash is Passing Fire",
           img: "../images/Shanameh/23.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "29,7 cm x 21 cm",
+          imgName: "Haft Khan I",
           img: "../images/Shanameh/24.png",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "54 cm x 36 cm",
+          imgName: "Bijan and Manijeh II",
           img: "../images/Shanameh/25.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "59 cm x 40 cm",
+          imgName: "Shoghad",
           img: "../images/Shanameh/26.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "85 cm x 52 cm",
+          imgName: "Jarireh",
           img: "../images/Shanameh/27.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "26 cm x 22 cm",
+          imgName: "Sudabeh Kills",
           img: "../images/Shanameh/28.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "52 cm x 34 cm",
+          imgName: "A Day in the Life of Sudabeh",
           img: "../images/Shanameh/29.jpg",
         },
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
+          title: "Watercolor and gouache",
+          size: "21 cm x 29,7 cm",
+          imgName: "Default",
           img: "../images/Shanameh/30.jpg",
+        },
+        {
+          id: uuidv4(),
+          title: "Watercolor and gouache",
+          size: "58 cm x 34 cm",
+          imgName: "Tahmineh I",
+          img: "../images/Shanameh/31.jpg",
         },
       ],
       companyInfos: [
@@ -204,22 +270,12 @@ export const state = () => ({
         {
           id: uuidv4(),
           details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.",
+            'The Shahnameh ("The Book of Kings") is a long epic poem written by the Persian poet Ferdowsi between c. 977 and 1010 CE and is the national epic of Iran (Persia) and the Persian-speaking world.',
         },
         {
           id: uuidv4(),
           details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?",
-        },
-        {
-          id: uuidv4(),
-          details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?",
-        },
-        {
-          id: uuidv4(),
-          details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.",
+            "The paintings in this collection are my interpretation of the poems from the Shahnameh.",
         },
       ],
       socialSharings: [
@@ -261,13 +317,13 @@ export const state = () => ({
       category: "Dreams",
       img: "../images/Dreams/d2.jpg",
       publishDate: "Nov 04, 2021",
-      tag: "UI / Frontend",
+      tag: "Fine / Art",
       clientTitle: "About Client",
       objectivesTitle: "Objective",
       objectivesDetails:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.",
       techTitle: "Tools & Technologies",
-      detailsTitle: "Challenge",
+      detailsTitle: "Dreams",
       socialTitle: "Share This",
       projectImages: [
         {
@@ -355,22 +411,12 @@ export const state = () => ({
         {
           id: uuidv4(),
           details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.",
+            "In 2004, I visited the UK for the first time on an art trip supported  by the British Counsel. On one of the days, the group were taken for bungee jumping, but I declined and asked if I could be taken to the British Museum instead.",
         },
         {
           id: uuidv4(),
           details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?",
-        },
-        {
-          id: uuidv4(),
-          details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?",
-        },
-        {
-          id: uuidv4(),
-          details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.",
+            "It was on that day at the British Museum that I discovered and fell in love with the works of Salvador Dali and surrealism.",
         },
       ],
       socialSharings: [
@@ -412,13 +458,13 @@ export const state = () => ({
       category: "Arrabesque",
       img: "../images/Arrabesque/a3.jpg",
       publishDate: "Nov 04, 2021",
-      tag: "UI / Frontend",
+      tag: "Fine / Art",
       clientTitle: "About Client",
       objectivesTitle: "Objective",
       objectivesDetails:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.",
       techTitle: "Tools & Technologies",
-      detailsTitle: "Challenge",
+      detailsTitle: "Arrabesque",
       socialTitle: "Share This",
       projectImages: [
         {
@@ -481,22 +527,7 @@ export const state = () => ({
         {
           id: uuidv4(),
           details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.",
-        },
-        {
-          id: uuidv4(),
-          details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?",
-        },
-        {
-          id: uuidv4(),
-          details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?",
-        },
-        {
-          id: uuidv4(),
-          details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.",
+            "Arabesque is a style of artistic decoration that involves the interweaving of floral patterns, plain lines and sometimes other elements. I use it a lot in my work for both decoration and as part of the main piece.",
         },
       ],
       socialSharings: [
@@ -538,7 +569,7 @@ export const state = () => ({
       category: "Collection-1",
       img: "../images/web-project-1.jpg",
       publishDate: "Nov 04, 2021",
-      tag: "Web / Frontend",
+      tag: "Fine / Art",
       clientTitle: "About Client",
       objectivesTitle: "Objective",
       objectivesDetails:
@@ -654,7 +685,7 @@ export const state = () => ({
       category: "Collection-2",
       img: "../images/92362e_629f5ecec567480ebe1a2eb50c9dfd9a.jpg",
       publishDate: "Nov 04, 2021",
-      tag: "UI / Mobile",
+      tag: "Fine / Art",
       clientTitle: "About Client",
       objectivesTitle: "Objective",
       objectivesDetails:
@@ -770,7 +801,7 @@ export const state = () => ({
       category: "Collection-3",
       img: "../images/92362e_e5aad61348614df447d3243a6d4dc571.jpg",
       publishDate: "Nov 04, 2021",
-      tag: "UI / Mobile",
+      tag: "Fine / Art",
       clientTitle: "About Client",
       objectivesTitle: "Objective",
       objectivesDetails:

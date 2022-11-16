@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "Sama Portfolio",
+    title: "Sama Soltani Fine Art",
     htmlAttrs: {
       lang: "en",
     },
