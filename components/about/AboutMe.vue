@@ -137,7 +137,16 @@ export default {
             mb-7
           ">
           Exhibitions
-              </p> <p data-v-38d755c4="" class="
+              </p>
+               <p data-v-38d755c4="" class="
+            font-general-regular
+            mb-5
+            text-lg text-ternary-dark
+            dark:text-ternary-light
+          ">
+            <img src="@/static/images/92362e_bb70e372e35245a4be7cbbcf3ee30553.jpg" alt="">
+               </p>
+               <p data-v-38d755c4="" class="
             font-general-regular
             mb-5
             text-lg text-ternary-dark
