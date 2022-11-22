@@ -81,7 +81,9 @@ export default {
       </div>
 
       <!-- Project gallery -->
-      <div class=" grid grid-cols-1 sm:grid-cols-3 sm:gap-10 mt-12">
+      <div class=" grid grid-cols-1 sm:grid-cols-3 sm:gap-10 mt-12
+        text-primary-dark
+        dark:text-primary-light">
         <div
           class="card mb-10 sm:mb-0"
           v-for="projectImage in project.projectImages"
@@ -89,9 +91,11 @@ export default {
         >
           <img
             :src="projectImage.img"
-            class="rounded-xl cursor-pointer shadow-lg sm:shadow-none"
+            class="rounded-xl cursor-pointer shadow-lg sm:shadow-none 
+           "
           />
-           <h3>{{projectImage.imgName}}</h3>
+           <h3 class="  text-primary-dark
+        dark:text-primary-light">{{projectImage.imgName}}</h3>
            <div class="focus-content">
           <p>{{projectImage.title}}<br/> 
           {{projectImage.size}}<br/> 
