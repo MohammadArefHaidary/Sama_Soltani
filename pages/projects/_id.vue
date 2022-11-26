@@ -119,6 +119,7 @@ export default {
 <Modal1 :image="image"
         :showModal="showModal"
         :toggleModal="toggleModal"
+        :title="title"
 ></Modal1>
         </div>
             
