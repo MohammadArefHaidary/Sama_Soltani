@@ -178,7 +178,11 @@ export default {
                 text-lg text-ternary-dark
                 dark:text-ternary-light
               "
-              >{{ project.category }}</span
+              >
+
+              <!-- {{ project.category }} -->
+              
+              </span
             >
           </div>
         </NuxtLink>
